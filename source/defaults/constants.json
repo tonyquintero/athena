@@ -1,0 +1,8 @@
+{
+    "color-white": "#ffffff",
+    "color-black": "#222222",
+    "spacing-block": "24px",
+    "spacing-related": "16px",
+    "spacing-coupled": "10px",
+    "spacing-internal": "4px"
+}

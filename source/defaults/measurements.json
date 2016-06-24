@@ -1,7 +1,0 @@
-// default measurements
-{
-    spacing-block: "24px",
-    spacing-related: "16px",
-    spacing-coupled: "10px",
-    spacing-internal: "4px"
-}
