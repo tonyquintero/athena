@@ -6,7 +6,7 @@ var sass = require('gulp-sass');
 
 // compile sass
 gulp.task('sass', function() {
-    return gulp.src('scss/*.scss')
+    return gulp.src('source/scss/*.scss')
         .pipe(sass())
         .pipe(gulp.dest('dist/css'));
 });
